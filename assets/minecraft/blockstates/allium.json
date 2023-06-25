@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/allium"
+      },
+      {
+        "model": "block/allium1"
+      },
+      {
+        "model": "block/allium2"
+      }    ]
+  }
+}

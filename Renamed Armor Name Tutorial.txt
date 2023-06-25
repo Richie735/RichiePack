@@ -1,0 +1,236 @@
+All the Renamed Armor names you need to get the textures
+=========================
+
+Angel:
+
+-Angel Helmet
+-Angel Chestplate
+-Angel Leggings
+-Angel Boots
+-Angel Sword
+-Angel Axe
+-Angel Pickaxe
+-Angel Shovel
+-Angel Sword
+-Angel Elytra
+
+Archer:
+
+-Archer Helmet
+-Archer Chestplate
+-Archer Leggings
+-Archer Boots
+-Angel Bow
+
+Bee:
+
+-Bee Helmet
+-Bee Chestplate
+-Bee Leggings
+-Bee Boots
+-Bee Sword
+-Bee Axe
+-Bee Pickaxe
+-Bee Shovel
+-Bee Sword
+-Bee Elytra
+
+Dark Angel:
+
+-Dark Angel Helmet
+-Dark Angel Chest
+-Dark Angel Leggings
+-Dark Angel Boots
+-Dark Angel Sword
+-Dark Angel Axe
+-Dark Angel Pickaxe
+-Dark Angel Shovel
+-Dark Angel Sword
+-Dark Angel Elytra
+
+Eagle:
+
+-Eagle Helmet
+-Eagle Chestplate
+-Eagle Leggings
+-Eagle Boots
+-Eagle Sword
+-Eagle Axe
+-Eagle Pickaxe
+-Eagle Shovel
+-Eagle Sword
+-Eagle Elytra
+
+Emerald:
+
+-Emerald Helmet
+-Emerald Chestplate
+-Emerald Leggings
+-Emerald Boots
+-Emerald Sword
+-Emerald Axe
+-Emerald Pickaxe
+-Emerald Shovel
+-Emerald Sword
+
+Enderman:
+
+-Enderman Helmet
+-Enderman Chestplate
+-Enderman Leggings
+-Enderman Boots
+-Enderman Sword
+-Enderman Axe
+-Enderman Pickaxe
+-Enderman Shovel
+-Enderman Sword
+
+Fire:
+
+-Fire Helmet
+-Fire Chestplate
+-Fire Leggings
+-Fire Boots
+-Fire Sword
+-Fire Axe
+-Fire Pickaxe
+-Fire Shovel
+-Fire Sword
+-Fire Elytra
+
+Frost:
+
+-Frost Helmet
+-Frost Chestplate
+-Frost Leggings
+-Frost Boots
+-Frost Sword
+-Frost Axe
+-Frost Pickaxe
+-Frost Shovel
+-Frost Sword
+-Frost Elytra
+
+Glow Squid:
+
+-Glow Squid Helmet
+-Glow Squid Chest
+-Glow Squid Leggings
+-Glow Squid Boots
+-Glow Squid Sword
+-Glow Squid Axe
+-Glow Squid Pickaxe
+-Glow Squid Shovel
+-Glow Squid Sword
+
+King:
+
+-King Helmet
+-King Chestplate
+-King Leggings
+-King Boots
+-King Sword
+-King Axe
+-King Pickaxe
+-King Shovel
+-King Sword
+-King Elytra
+
+Mushroom:
+
+-Mushroom Helmet
+-Mushroom Chest
+-Mushroom Leggings
+-Mushroom Boots
+-Mushroom Sword
+-Mushroom Axe
+-Mushroom Pickaxe
+-Mushroom Shovel
+-Mushroom Sword
+
+Ruby:
+
+-Ruby Helmet
+-Ruby Chestplate
+-Ruby Leggings
+-Ruby Boots
+-Ruby Sword
+-Ruby Axe
+-Ruby Pickaxe
+-Ruby Shovel
+-Ruby Sword
+
+Scorched:
+
+-Scorched Helmet
+-Scorched Chest
+-Scorched Leggings
+-Scorched Boots
+-Scorched Sword
+-Scorched Axe
+-Scorched Pickaxe
+-Scorched Shovel
+-Scorched Sword
+
+Sculk:
+
+-Sculk Helmet
+-Sculk Chestplate
+-Sculk Leggings
+-Sculk Boots
+-Sculk Sword
+-Sculk Axe
+-Sculk Pickaxe
+-Sculk Shovel
+-Sculk Sword
+-Sculk Elytra
+
+Slime:
+
+-Slime Helmet
+-Slime Chestplate
+-Slime Leggings
+-Slime Boots
+-Slime Sword
+-Slime Axe
+-Slime Pickaxe
+-Slime Shovel
+-Slime Sword
+
+Tribal:
+
+-Tribal Helmet
+-Tribal Chestplate
+-Tribal Leggings
+-Tribal Boots
+-Tribal Sword
+-Tribal Axe
+-Tribal Pickaxe
+-Tribal Shovel
+-Tribal Sword
+
+Water:
+
+-Water Helmet
+-Water Chestplate
+-Water Leggings
+-Water Boots
+-Water Sword
+-Water Axe
+-Water Pickaxe
+-Water Shovel
+-Water Sword
+
+Wither:
+
+-Wither Helmet
+-Wither Chestplate
+-Wither Leggings
+-Wither Boots
+-Wither Sword
+-Wither Axe
+-Wither Pickaxe
+-Wither Shovel
+-Wither Sword
+
+

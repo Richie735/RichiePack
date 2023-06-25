@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/bamboo_mosaic"
+      },
+      {
+        "model": "block/bamboo_mosaic1"
+      },
+      {
+        "model": "block/bamboo_mosaic2"
+      },
+      {
+        "model": "block/bamboo_mosaic3"
+      },
+      {
+        "model": "block/bamboo_mosaic4"
+      }    ]
+  }
+}

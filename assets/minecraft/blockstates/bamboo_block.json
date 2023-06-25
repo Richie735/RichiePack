@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/bamboo_block"
+      },
+      {
+        "model": "block/bamboo_block1"
+      },
+      {
+        "model": "block/bamboo_block2"
+      },
+      {
+        "model": "block/bamboo_block3"
+      },
+      {
+        "model": "block/bamboo_block4"
+      }    ]
+  }
+}

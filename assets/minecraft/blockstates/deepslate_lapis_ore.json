@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/deepslate_lapis_ore"
+      },
+      {
+        "model": "block/deepslate_lapis_ore1"
+      },
+      {
+        "model": "block/deepslate_lapis_ore2"
+      },
+      {
+        "model": "block/deepslate_lapis_ore3"
+      },
+      {
+        "model": "block/deepslate_lapis_ore4"
+      },
+      {
+        "model": "block/deepslate_lapis_ore5"
+      }    ]
+  }
+}

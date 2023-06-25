@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/blue_orchid"
+      },
+      {
+        "model": "block/blue_orchid1"
+      },
+      {
+        "model": "block/blue_orchid2"
+      }    ]
+  }
+}
